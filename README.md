@@ -1,6 +1,6 @@
 # Ejercicio: Manejo de Excepciones en Java - Sistema de Cuenta Bancaria
 
-##Contexto
+## Contexto
 Imaginen que están desarrollando un sistema básico para un banco. 
 El sistema debe manejar cuentas bancarias, permitiendo depósitos, retiros y bloqueos de cuenta,
 pero también debe ser capaz de manejar situaciones excepcionales de manera segura y informativa.
